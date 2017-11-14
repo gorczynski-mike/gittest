@@ -2,6 +2,7 @@
 hello again git my friend
 updating readme with new information
 added another line on github
+"Fixing bug 1234" 
 and this time we edit it locally
 "Feature1" 
 "feature2" 
